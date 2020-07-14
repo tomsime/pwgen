@@ -15,7 +15,7 @@ Download the file to the ~ / bin folder and run the following commands
 Then type the following code: 
 
 ```bash
- sudo ./pwg.sh [lenght]
+ sh ./pwg.sh [lenght]
 ```
 
 If the length parameter is not sent, each block will have a length of 8 characters.
@@ -23,7 +23,7 @@ If the length parameter is not sent, each block will have a length of 8 characte
 ### Example
 
 ````bash
- sudo ./pwg.sh 12
+ sh ./pwg.sh 12
  e8I6wnkAL3Q0-xQrQ8WIuXoG6
 ````
 
